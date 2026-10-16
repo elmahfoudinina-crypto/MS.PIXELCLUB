@@ -1,0 +1,68 @@
+.HEADER {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    padding: 12px 40px;
+}
+
+.logo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: #1B2340;
+}
+
+.van ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.van a {
+    text-decoration: none;
+    color: #1B2340
+}
+
+.CONHE {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.eunetnoc p {
+    color: #5B4FD6;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 10px;
+    padding-right:150px;
+}
+
+.eunetnoc h1 {
+    color: #1B2340;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin:10px;
+    padding-right:150px;
+
+}
+
+.eunetnoc h6 {
+    color: grey;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin:12px;
+    padding-right:150px;
+}
+
+.nottub{
+    border-radius: 12px;
+    width: 150px;
+    height: 40px;
+    background-color: #5B4FD6;
+}
+
+.Edit{
+    text-decoration: none;
+    color:aliceblue ;
+}
